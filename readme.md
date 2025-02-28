@@ -1,4 +1,5 @@
-﻿# The A Multi-Phase Transport (AMPT) Model
+﻿# A Multi-Phase Transport (AMPT) Model
+ 
 The AMPT model is a widely used framework for simulating heavy-ion collisions at relativistic energies. It combines several components to provide a comprehensive description of the various stages of the collision process, including initial conditions, parton evolution, hadronization, and hadronic interactions[1][3].
 ## Key Features of the AMPT Model
 - **Initial Conditions**: The AMPT model utilizes the HIJING (Heavy Ion Jet Interaction Generator) framework to generate the initial conditions for the collision, including soft string fragmentation and hard minijets[1][3].
